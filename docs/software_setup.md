@@ -17,7 +17,9 @@
 
 ### Installing Dependencies
 - ``sudo apt-get install python3-pip``
-- ``sudo apt-get install libopenjp2-7 libtiff5``
+- ``sudo apt-get install libopenjp2-7-dev``
+- ``sudo apt-get install libopenjp2-7``
+- ``sudo apt-get install libtiff5``
 - ``sudo apt-get install git``
 
 ### Installing SugarPiDisplay
