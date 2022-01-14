@@ -2,7 +2,7 @@
 
 Display your CGM data on an e-Paper display anywhere in your home or office.
 
-![SugarPiDisplay](https://raw.githubusercontent.com/bassettb/SugarPiDisplay/master/docs/image2.jpg) .... ![SugarPiDisplay](https://raw.githubusercontent.com/bassettb/SugarPiDisplay/master/docs/image3.jpg)
+![SugarPiDisplay](https://raw.githubusercontent.com/archynet/SugarPiDisplay/master/docs/image2.jpg) .... ![SugarPiDisplay](https://raw.githubusercontent.com/archynet/SugarPiDisplay/master/docs/image3.jpg)
 
 ## Features
 - Connects to either Dexcom Share or Nightscout
@@ -20,12 +20,12 @@ Display your CGM data on an e-Paper display anywhere in your home or office.
 ## Config Interface
 Simple web interface for configuring the data source:
 
-![Config screen](https://raw.githubusercontent.com/bassettb/SugarPiDisplay/master/docs/ConfigScreenshot1.png)
+![Config screen](https://raw.githubusercontent.com/archynet/SugarPiDisplay/master/docs/ConfigScreenshot1.png)
 
 ## Setup Instructions
 
-- [Hardware](https://github.com/bassettb/SugarPiDisplay/blob/master/docs/hardware_setup.md)
-- [Software](https://github.com/bassettb/SugarPiDisplay/blob/master/docs/software_setup.md)
+- [Hardware](https://github.com/archynet/SugarPiDisplay/blob/master/docs/hardware_setup.md)
+- [Software](https://github.com/archynet/SugarPiDisplay/blob/master/docs/software_setup.md)
 
 ## License
 This code is licensed under the MIT license, see the [LICENSE file](https://github.com/bassettb/SugarPiDisplay/blob/master/LICENSE) or [tldrlegal](http://www.tldrlegal.com/license/mit-license) for more information.
