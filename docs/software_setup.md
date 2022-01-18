@@ -1,5 +1,6 @@
 
 ## Software Setup
+tested on Raspberry Pi Zero W and Raspbian bulleyes
 
 ### Install Raspian OS
 - Flash the microSD with Raspbian-Lite
